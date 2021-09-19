@@ -1,0 +1,19 @@
+[{
+        "name": "storage",
+        "url": "https://cdn.gamingcraft.de/storage"
+    },
+    {
+        "name": "utility_client",
+        "url": "https://cdn.gamingcraft.de/uclient"
+    },
+    {
+        "name": "vre_client",
+        "url": "http://195.128.103.227/",
+        "resUrl": "https://cdn.gamingcraft.de/vre_client"
+    },
+    {
+        "name": "website",
+        "url": "https://www.gamingcraft.de/",
+        "resUrl": "https://cdn.gamingcraft.de/website"
+    }
+]

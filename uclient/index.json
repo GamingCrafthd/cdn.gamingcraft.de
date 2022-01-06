@@ -25,7 +25,8 @@
     {
         "file": "groups/roles/beta_tester",
         "usernames": ["marioboss56", "Sangelo_", "GamingCraft_hd", "byquanton"]
-    } {
+    },
+    {
         "file": "groups/roles/staff",
         "usernames": ["UC2_Developer", "UC3_Developer"]
     }

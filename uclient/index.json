@@ -1,4 +1,16 @@
 [{
+        "file": "groups/roles/staff",
+        "usernames": ["GamingCraft_hd", "Sangelo_"]
+    },
+    {
+        "file": "groups/roles/contributer",
+        "usernames": ["marioboss56", "Sangelo_"]
+    },
+    {
+        "file": "groups/roles/beta_tester",
+        "usernames": ["marioboss56", "Sangelo_", "GamingCraft_hd", "byquanton"]
+    },
+    {
         "file": "user_capes/GamingCraft_hd",
         "usernames": ["GamingCraft_hd", "MrsGamingCraft"]
     },
